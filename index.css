@@ -9,6 +9,12 @@ header{
     font-size: 7ch;
 }
 
+.first{
+    padding: 1vh;
+}
+
+/* Noto-Sans用のCSS */
+
 html[lang="ja"] {
     font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
   }

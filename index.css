@@ -10,8 +10,22 @@ header{
     font-size: 7ch;
 }
 
+.request{
+    padding: 1vh;
+    border: #00CC00;
+}
+
 .first{
     padding: 1vh;
+}
+
+.midasi{
+    font-size: 5vw;
+}
+
+.coming_soon{
+    font-size: 5vw;
+    text-align: center;
 }
 
 /* Noto-Sans用のCSS */

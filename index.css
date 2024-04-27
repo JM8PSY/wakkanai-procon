@@ -10,6 +10,12 @@ header{
     font-size: 7ch;
 }
 
+.date{
+    text-align: center;
+    border: #25b7c0 solid 1px;
+    margin-top: 1vh;
+}
+
 .request{
     padding: 1vh;
 }
